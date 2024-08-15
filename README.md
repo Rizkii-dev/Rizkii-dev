@@ -8,6 +8,8 @@
 <a href="https://www.instagram.com/pratamawae489/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://codepen.io/Rizkii-dev" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" style="max-width: 100%;"></a>
 <a href="mailto:m.rizkip.developer@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="email" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/muhammad-rizki-pratama-151161213/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="email" height="30" width="40" style="max-width: 100%;"></a>
+
 
 </p>
 
