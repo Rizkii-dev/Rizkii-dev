@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate programmer from Indonesia</h3>
 
-<h3 align="center"><a href="https://rizkii-dev.github.io/PersonalWebsitev1/">And this is my website</a></h3>
+<h3 align="center"><a href="https://rizkii-dev.github.io/PersonalWebsitev1/" target="_blank">And if you want know more about me click me!</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
