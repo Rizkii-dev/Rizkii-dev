@@ -1,11 +1,7 @@
-<head>
-  <base target="_blank">
-</head>
-
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate programmer from Indonesia</h3>
 
-<a href="https://rizkii-dev.github.io/" target="_blank">And if you want know more about me click me!</a>
+<a href="https://rizkii-dev.github.io/" target="_blank" rel="noopener noreferrer">And if you want know more about me click me!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
