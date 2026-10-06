@@ -1,3 +1,5 @@
+<base target="_blank">
+
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate programmer from Indonesia</h3>
 
